@@ -38,10 +38,10 @@
 			
 			theme: 'white',				// Set the theme 'white', 'black', 'red', 'flat', 'custome'
 			
-			titleDays: 'Dias',			// Set the title of days
-			titleHours: 'Horas',		// Set the title of hours
-			titleMinutes: 'Minutos',	// Set the title of minutes
-			titleSeconds: 'Segundos',	// Set the title of seconds
+			titleDays: 'days',			// Set the title of days
+			titleHours: 'hours',		// Set the title of hours
+			titleMinutes: 'minutes',	// Set the title of minutes
+			titleSeconds: 'seconds',	// Set the title of seconds
 			
 			onBevoreStart: null,		// callback before the count down starts
 			onClocking: null,			// callback after the timer just clocked
